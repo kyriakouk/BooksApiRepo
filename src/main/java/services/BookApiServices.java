@@ -40,7 +40,7 @@ public class BookApiServices {
 
 	public BookApiServices() {
 		this.API_URL = "https://www.googleapis.com";
-		this.API_KEY = "AIzaSyBj0UjiEoNRsJHJPpbY6kt0Fa8CGiQR70o";
+		this.API_KEY = "your api key";
 
 	}
 
